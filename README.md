@@ -1,4 +1,3 @@
-# yashwanthspunk
 # 💫 About Me:
 I’m currently working on academic and personal projects in Data Science<br>I’m looking to collaborate on innovative web and data-driven applications<br> I’m looking for help with advanced system design and scalable architectures<br> I’m currently studying BCA (Data Science) at Aditya Degree College and learning Python, Data Analytics, and modern web technologies<br> Ask me about Python, SQL, Data Visualization, and GitHub projects<br> Fun fact: I turn coffee ☕ into clean code and creative solutions
 
